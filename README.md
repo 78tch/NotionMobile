@@ -1,7 +1,7 @@
 # NotionMobile
 |左列|メニューボタン|
 |--|--|
-|ホームページ（cmd + W）<br>ツールを選択<br>消去「消しゴム」<br>休符<br>付点<br>ボイス<br>連符<br>装飾音符<br>符頭|![メニューボタン](./images/cmd_button.png)  
+|ホームページ（cmd + W）<br>ツールを選択<br>消去「消しゴム」<br>休符<br>付点<br>ボイス<br>連符（長押しで切替）<br>装飾音符<br>符頭|![メニューボタン](./images/cmd_button.png)  
   
 
 |メニューボタン|右列|
